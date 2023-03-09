@@ -1,0 +1,20 @@
+{
+    "name": "Nimbus.Variables.Core",
+    "rootNamespace": "Nimbus.Variables",
+    "references": [
+        "Nimbus.Common.Core",
+        "Nimbus.DI.Core",
+        "Nimbus.Tasks.Core",
+        "Nimbus.Systems.Core",
+        "Nimbus.Channels.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
